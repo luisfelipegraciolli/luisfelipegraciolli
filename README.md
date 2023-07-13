@@ -1,5 +1,6 @@
 <h1 align="center">Hey :D My name is Luis Felipe, also known as Shiwa</h1>
-<h3 align="center">A passionate brazilian Indie game developer and Computer Science student, Languages I speak: Portuguese, English, Basic Understanding of French</h3>
+<h3 align="left">A passionate brazilian Indie game developer and Computer Science student</h3>
+<h3 align="left">Languages 🇧🇷🇬🇧🇫🇷</h3>
 
 - 🌱 I’m currently learning **C, C++ C#, Javascript and Unity**
 
