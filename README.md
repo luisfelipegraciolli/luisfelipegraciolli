@@ -1,6 +1,9 @@
+<p align="center">
+  <img src="https://pbs.twimg.com/profile_images/1455880435779751944/XvQSvxyu_400x400.jpg" height="135" width="158">
+</p>
 <h1 align="center">Hey 🖤 My name is Luis Felipe, also known as Shiwa</h1>
-<h3 align="left">A passionate brazilian Indie game developer 🎮 and Computer Science student💻</h3>
-<h3 align="left">Languages 🇧🇷🇬🇧🇫🇷</h3>
+<h2 align="center">A passionate brazilian Indie game developer 🎮 and Computer Science student💻</h3>
+<h3 align="center">Languages 🇧🇷🇬🇧🇫🇷</h3>
 
 - 🌱 I’m currently learning **C, C++ C#, Javascript and Unity**
 
