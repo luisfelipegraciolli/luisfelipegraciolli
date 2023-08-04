@@ -2,7 +2,7 @@
 <h2 align="center">A passionate brazilian Indie game developer 🎮 and Computer Science student💻</h3>
 <h3 align="center">Languages 🇧🇷🇬🇧🇫🇷</h3>
 
-- 🌱 I’m currently learning **C, C++ C#, Unity and 3D Modeling with Blender**
+- 🌱 I’m currently learning **C, Dart, Flutter**
 
 - 🤝 I’m looking for help with **Open Source Projects and Collaborate at the development of games using the Unity Engine**
   
