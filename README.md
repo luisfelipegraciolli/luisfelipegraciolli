@@ -1,11 +1,11 @@
 <h1 align="center">Hey 🖤 My name is Luis Felipe, also known as Shiwa</h1>
 <h2 align="center">A passionate brazilian Indie game developer 🎮 and Computer Science student💻</h2>
-<h2 align="center">Currently Learning Mobile Development with Flutter</h2>
+<h2 align="center">Currently Learning Mobile Development with Kotlin</h2>
 <h3 align="center">Languages 🇧🇷🇬🇧🇫🇷</h3>
 
-- 🌱 I’m currently learning **C, Dart, Flutter, Java**
+- 🌱 I’m currently learning **C, Java, Mobile Development with Kotlin**
 
-- 🤝 I’m looking for help with **Open Source Projects and Collaborate at the development of games using the Unity Engine or Flutter projects**
+- 🤝 I’m looking for help with **Open Source Projects and Collaborate at the development of games using the Unity Engine or Kotlin projects**
   
 - 📫 How to reach me **luisfelipegraciolli@gmail.com or luisgraciolli@id.uff.br**
 
